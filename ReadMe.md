@@ -1,7 +1,7 @@
 <h1 align="center">Dual-AEB: Synergizing Rule-Based and Multimodal Large Language Models for Effective Emergency Braking</h1>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/arXiv-Dual_AEB-green"></a>
+<a href="https://arxiv.org/pdf/2410.08616"><img src="https://img.shields.io/badge/arXiv-Dual_AEB-green"></a>
 <a href="https://www.youtube.com/watch?v=KbN-mJnXu08"><img src="https://img.shields.io/badge/YouTube-Video-red?logo=video"></a>
 <a href="https://github.com/ChipsICU/Dual-AEB/blob/main/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
@@ -45,5 +45,21 @@ Automatic Emergency Braking (AEB) systems are a crucial component in ensuring th
 If you find this work useful in your research, please consider cite: 
 
 ```
-
+@misc{zhang2024dualaebsynergizingrulebasedmultimodal,
+      title={Dual-AEB: Synergizing Rule-Based and Multimodal Large Language Models for Effective Emergency Braking}, 
+      author={Wei Zhang and Pengfei Li and Junli Wang and Bingchuan Sun and Qihao Jin and Guangjun Bao and Shibo Rui and Yang Yu and Wenchao Ding and Peng Li and Yilun Chen},
+      year={2024},
+      eprint={2410.08616},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2410.08616}, 
+}
 ```
+
+## Acknowledgments
+
+We thank all the authors who made their codes and datasets public, which tremendously accelerates our project progress. If you find these works helpful, please consider citing them as well.
+
+[MM-AU](https://github.com/jeffreychou777/LOTVS-MM-AU)
+[Bench2DriveZoo](https://github.com/Thinklab-SJTU/Bench2DriveZoo/tree/uniad/vad)
+[LLaVA-OneVision](https://github.com/LLaVA-VL/LLaVA-NeXT/)
