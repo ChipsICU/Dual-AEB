@@ -33,13 +33,10 @@ Automatic Emergency Braking (AEB) systems are a crucial component in ensuring th
 
 ---
 
-
-
-## <strong><i>🚀 News</i></strong>
-
-><strong>[Coming Soon]</strong>: We will release full code after paper acceptance! Stay tuned for updates on this <a href="#">page</a>.
->
-
+## Notes
+2024-10-11: **Initialization**.
+**2025-01-28**: Dual-AEB has been accepted by **ICRA 2025** !  :rocket:
+2025-02-27: Uploading Dual-AEB **training pipeline**.
 
 ## Citation
 If you find this work useful in your research, please consider cite: 
